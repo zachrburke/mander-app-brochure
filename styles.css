@@ -1,0 +1,13 @@
+:root {
+    --bg: #fff; /* Keeping the background white for a clean look */
+    --accent-bg: #fffbea; /* A very light yellow for subtle background accents */
+    --text: #212121; /* Retaining the original dark text color for readability */
+    --text-light: #585858; /* Keeping the lighter text color */
+    --border: #f2c4a8; /* A light, warm shade that complements both red and yellow */
+    --accent: #f2a65a; /* A vibrant, lighter shade of red */
+    --accent-light: #f8d0b3; /* A much lighter shade of the accent for subtle highlights */
+    --code: #d81b60; /* Retaining this as it's already a light red */
+    --preformatted: #444; /* Keeping this for good contrast in preformatted text */
+    --marked: #ffdd33; /* A bright yellow, ideal for highlights and marking */
+    --disabled: #efefef; /* Keeping this for disabled elements */
+}
